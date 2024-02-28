@@ -21,3 +21,4 @@ for i in range (0, n):
 		d[l[i]] = "odd"
   
 print(d)
+
